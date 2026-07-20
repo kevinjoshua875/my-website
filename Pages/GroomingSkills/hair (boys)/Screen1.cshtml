@@ -1,0 +1,54 @@
+﻿@page
+
+<!-- 🔊 CLICK SOUND -->
+<audio id="clickSound" src="/sounds/click.mp3" preload="auto"></audio>
+
+<div class="center-page">
+    <div class="menu-card">
+
+        <h1>Morning Assembly</h1>
+
+        <div class="video-wrapper">
+
+            <!-- 🔥 SCREEN FLASH OVERLAY -->
+            <div id="screenFlash" class="screen-flash"></div>
+
+            @*<video id="lessonVideo" muted playsinline controls> *@
+            <video id="lessonVideo" controls>
+                <source src="/GroomingSkills/hair (boys)/Screen1/0110 (6).mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+
+            <!-- BOTTOM INSIDE VIDEO CHOICES -->
+            <div class="choices-overlay" id="choices">
+                <div class="choices-row">
+                    <button class="choice-btn" onclick="selectAnswer(true)">
+                        Comb your hair neatly
+                    </button>
+
+                    <button class="choice-btn" onclick="selectAnswer(false)">
+                        Stand with messy, spiky hair
+                    </button>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- BACK / UNDO BUTTON -->
+        <button class="back-btn" id="backBtn" onclick="handleBack()">
+            ⬅ BACK
+        </button>
+
+    </div>
+</div>
+
+<script src="/js/video-flow.js"></script>
+
+<script>
+    initVideo({
+        mainVideo: "/GroomingSkills/hair (boys)/Screen1/0110 (6).mp4",
+        correctVideo: "/GroomingSkills/hair (boys)/Screen1/0111 (14).mp4",
+        wrongVideo: "/GroomingSkills/hair (boys)/Screen1/0111 (13).mp4",
+        nextUrl: "/GroomingSkills/hair (boys)/Screen2"
+    });
+</script>

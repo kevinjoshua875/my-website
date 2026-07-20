@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Web\\InteractiveVideoGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3A7903-642E-4EF0-914E-0D84FABF455D}|InteractiveVideoGame.csproj|c:\\web\\interactivevideogame\\pages\\groomingskills\\tongue\\screen7.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF3A7903-642E-4EF0-914E-0D84FABF455D}|InteractiveVideoGame.csproj|solutionrelative:pages\\groomingskills\\tongue\\screen7.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3A7903-642E-4EF0-914E-0D84FABF455D}|InteractiveVideoGame.csproj|c:\\web\\interactivevideogame\\pages\\groomingskills\\tongue\\screen6.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF3A7903-642E-4EF0-914E-0D84FABF455D}|InteractiveVideoGame.csproj|solutionrelative:pages\\groomingskills\\tongue\\screen6.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3A7903-642E-4EF0-914E-0D84FABF455D}|InteractiveVideoGame.csproj|c:\\web\\interactivevideogame\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF3A7903-642E-4EF0-914E-0D84FABF455D}|InteractiveVideoGame.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3A7903-642E-4EF0-914E-0D84FABF455D}|InteractiveVideoGame.csproj|c:\\web\\interactivevideogame\\pages\\groomingskills\\groomingskills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF3A7903-642E-4EF0-914E-0D84FABF455D}|InteractiveVideoGame.csproj|solutionrelative:pages\\groomingskills\\groomingskills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:971852716:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Screen7.cshtml",
+              "DocumentMoniker": "C:\\Web\\InteractiveVideoGame\\Pages\\GroomingSkills\\tongue\\Screen7.cshtml",
+              "RelativeDocumentMoniker": "Pages\\GroomingSkills\\tongue\\Screen7.cshtml",
+              "ToolTip": "C:\\Web\\InteractiveVideoGame\\Pages\\GroomingSkills\\tongue\\Screen7.cshtml",
+              "RelativeToolTip": "Pages\\GroomingSkills\\tongue\\Screen7.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-12T10:00:06.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Screen6.cshtml",
+              "DocumentMoniker": "C:\\Web\\InteractiveVideoGame\\Pages\\GroomingSkills\\tongue\\Screen6.cshtml",
+              "RelativeDocumentMoniker": "Pages\\GroomingSkills\\tongue\\Screen6.cshtml",
+              "ToolTip": "C:\\Web\\InteractiveVideoGame\\Pages\\GroomingSkills\\tongue\\Screen6.cshtml",
+              "RelativeToolTip": "Pages\\GroomingSkills\\tongue\\Screen6.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-12T09:59:43.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GroomingSkills.cshtml",
+              "DocumentMoniker": "C:\\Web\\InteractiveVideoGame\\Pages\\GroomingSkills\\GroomingSkills.cshtml",
+              "RelativeDocumentMoniker": "Pages\\GroomingSkills\\GroomingSkills.cshtml",
+              "ToolTip": "C:\\Web\\InteractiveVideoGame\\Pages\\GroomingSkills\\GroomingSkills.cshtml",
+              "RelativeToolTip": "Pages\\GroomingSkills\\GroomingSkills.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAUwEYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-20T15:19:39.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Web\\InteractiveVideoGame\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Web\\InteractiveVideoGame\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAUwKcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-19T12:48:41.764Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

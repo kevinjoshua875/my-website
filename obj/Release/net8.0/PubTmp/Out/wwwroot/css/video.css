@@ -1,0 +1,177 @@
+﻿/* ===============================
+   CUSTOM FONT
+   =============================== */
+@font-face {
+    font-family: "MelonPop";
+    src: url("/fonts/Melon%20Pop.otf") format("opentype"), url("/fonts/Melon%20Pop.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* ===============================
+   GLOBAL
+   =============================== */
+body {
+    margin: 0;
+    font-family: "MelonPop", "Segoe UI", Arial, sans-serif;
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('/images/background.png') no-repeat center center fixed;
+    background-size: cover;
+    color: whitesmoke;
+}
+
+.center-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* ===============================
+   CARD
+   =============================== */
+.menu-card {
+    background: rgba(255,255,255,0.18);
+    backdrop-filter: blur(12px);
+    border-radius: 20px;
+    padding: 24px;
+    width: 1200px;
+    max-width: 98%;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.55);
+    border: 1px solid rgba(255,255,255,0.2);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #fde047;
+    font-family: "MelonPop", "Segoe UI", Arial, sans-serif;
+}
+
+/* ===============================
+   VIDEO
+   =============================== */
+.video-wrapper {
+    position: relative;
+    width: 100%;
+}
+
+video {
+    width: 100%;
+    max-height: 520px;
+    border-radius: 16px;
+    background: black;
+    box-shadow: 0 10px 35px rgba(0,0,0,0.65);
+    object-fit: cover;
+    display: block;
+}
+
+    video::-webkit-media-controls-fullscreen-button,
+    video::-webkit-media-controls-picture-in-picture-button,
+    video::-webkit-media-controls-overflow-button {
+        display: none !important;
+    }
+
+/* ===============================
+   CHOICES OVERLAY
+   =============================== */
+.choices-overlay {
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 40px;
+    padding: 20px;
+    display: none;
+    pointer-events: none;
+    background: linear-gradient( to top, rgba(0,0,0,0.65), rgba(0,0,0,0.15), transparent );
+    border-radius: 0 0 16px 16px;
+}
+
+.choices-row {
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+    pointer-events: auto;
+}
+
+.choice-btn {
+    flex: 1;
+    height: 100px;
+    padding: 16px;
+    font-size: 1.05rem;
+    font-weight: bold;
+/*    font-family: "MelonPop", "Segoe UI", Arial, sans-serif;*/
+    border-radius: 14px;
+    border: none;
+    cursor: pointer;
+    background: linear-gradient(135deg, #facc15, #eab308);
+    color: #1f2933;
+    text-align: center;
+    box-shadow: 0 7px 0 #ca8a04, 0 12px 20px rgba(0,0,0,0.45);
+    transition: transform 0.15s, box-shadow 0.15s;
+}
+
+    .choice-btn:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 9px 0 #ca8a04, 0 16px 28px rgba(0,0,0,0.5);
+    }
+
+    .choice-btn:active {
+        transform: translateY(2px);
+        box-shadow: 0 4px 0 #ca8a04, 0 7px 14px rgba(0,0,0,0.3);
+    }
+
+/* ===============================
+   FULL SCREEN FLASH FEEDBACK
+   =============================== */
+.screen-flash {
+    position: fixed;
+    inset: 0;
+    z-index: 9999;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.15s ease;
+}
+
+    .screen-flash.show {
+        opacity: 0.6;
+    }
+
+    .screen-flash.correct {
+        background-color: #22c55e; /* green */
+    }
+
+    .screen-flash.wrong {
+        background-color: #ef4444; /* red */
+    }
+
+/* ===============================
+   BACK BUTTON
+   =============================== */
+.back-btn {
+    margin-top: 24px;
+    padding: 14px;
+    font-size: 1.05rem;
+    font-weight: bold;
+    font-family: "MelonPop", "Segoe UI", Arial, sans-serif;
+    border-radius: 12px;
+    border: 2px solid #fde047;
+    background: transparent;
+    color: #fde047;
+    cursor: pointer;
+    width: 100%;
+}
+
+/* ===============================
+   MOBILE
+   =============================== */
+@media (max-width: 768px) {
+    .choices-row {
+        flex-direction: column;
+    }
+
+    .choice-btn {
+        height: auto;
+        font-size: 1rem;
+    }
+}

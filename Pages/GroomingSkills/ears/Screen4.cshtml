@@ -1,0 +1,55 @@
+﻿@page
+
+<!-- 🔊 CLICK SOUND -->
+<audio id="clickSound" src="/sounds/click.mp3" preload="auto"></audio>
+
+<div class="center-page">
+    <div class="menu-card">
+
+        <h1>Music Time – Classroom or Outdoor</h1>
+
+        <div class="video-wrapper">
+
+            <!-- 🔥 SCREEN FLASH OVERLAY -->
+            <div id="screenFlash" class="screen-flash"></div>
+
+
+            @*<video id="lessonVideo" muted playsinline controls> *@
+            <video id="lessonVideo" controls>
+                <source src="/GroomingSkills/ears/Screen4/0113 (40).mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+
+            <!-- BOTTOM INSIDE VIDEO CHOICES -->
+            <div class="choices-overlay" id="choices">
+                <div class="choices-row">
+                    <button class="choice-btn" onclick="selectAnswer(true)">
+                        Keep the volume low when using headphones
+                    </button>
+
+                    <button class="choice-btn" onclick="selectAnswer(false)">
+                        Turn the volume up until it's loud
+                    </button>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- BACK / UNDO BUTTON -->
+        <button class="back-btn" id="backBtn" onclick="handleBack()">
+            ⬅ BACK
+        </button>
+
+    </div>
+</div>
+
+<script src="/js/video-flow.js"></script>
+
+<script>
+    initVideo({
+        mainVideo: "/GroomingSkills/ears/Screen4/0113 (40).mp4",
+        correctVideo: "/GroomingSkills/ears/Screen4/0113 (42).mp4",
+        wrongVideo: "/GroomingSkills/ears/Screen4/0113 (41).mp4",
+        nextUrl: "/GroomingSkills/ears/Screen5"
+    });
+</script>

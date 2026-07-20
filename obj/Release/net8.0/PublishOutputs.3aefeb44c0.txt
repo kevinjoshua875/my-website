@@ -1,0 +1,7 @@
+C:\Web\InteractiveVideoGame\obj\Release\net8.0\PubTmp\Out\InteractiveVideoGame.exe
+C:\Web\InteractiveVideoGame\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Web\InteractiveVideoGame\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Web\InteractiveVideoGame\obj\Release\net8.0\PubTmp\Out\InteractiveVideoGame.dll
+C:\Web\InteractiveVideoGame\obj\Release\net8.0\PubTmp\Out\InteractiveVideoGame.deps.json
+C:\Web\InteractiveVideoGame\obj\Release\net8.0\PubTmp\Out\InteractiveVideoGame.runtimeconfig.json
+C:\Web\InteractiveVideoGame\obj\Release\net8.0\PubTmp\Out\InteractiveVideoGame.pdb

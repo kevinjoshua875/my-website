@@ -1,0 +1,54 @@
+﻿@page
+
+<!-- 🔊 CLICK SOUND -->
+<audio id="clickSound" src="/sounds/click.mp3" preload="auto"></audio>
+
+<div class="center-page">
+    <div class="menu-card">
+
+        <h1>Snack Time</h1>
+
+        <div class="video-wrapper">
+
+            <!-- 🔥 SCREEN FLASH OVERLAY -->
+            <div id="screenFlash" class="screen-flash"></div>
+
+            @*<video id="lessonVideo" muted playsinline controls> *@
+            <video id="lessonVideo" controls>
+                <source src="/GroomingSkills/hands and nails/Screen3/0111 (71).mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+
+            <!-- BOTTOM INSIDE VIDEO CHOICES -->
+            <div class="choices-overlay" id="choices">
+                <div class="choices-row">
+                    <button class="choice-btn" onclick="selectAnswer(false)">
+                        Eat right away with unwashed hands
+                    </button>
+
+                    <button class="choice-btn" onclick="selectAnswer(true)">
+                        Wash your hands before eating
+                    </button>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- BACK / UNDO BUTTON -->
+        <button class="back-btn" id="backBtn" onclick="handleBack()">
+            ⬅ BACK
+        </button>
+
+    </div>
+</div>
+
+<script src="/js/video-flow.js"></script>
+
+<script>
+    initVideo({
+        mainVideo: "/GroomingSkills/hands and nails/Screen3/0111 (71).mp4",
+        correctVideo: "/GroomingSkills/hands and nails/Screen3/0111 (72).mp4",
+        wrongVideo: "/GroomingSkills/hands and nails/Screen3/0111 (75).mp4",
+        nextUrl: "/GroomingSkills/hands and nails/Screen4"
+    });
+</script>

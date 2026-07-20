@@ -1,0 +1,63 @@
+C:\Web\InteractiveVideoGame\bin\Debug\net8.0\appsettings.Development.json
+C:\Web\InteractiveVideoGame\bin\Debug\net8.0\appsettings.json
+C:\Web\InteractiveVideoGame\bin\Debug\net8.0\InteractiveVideoGame.staticwebassets.runtime.json
+C:\Web\InteractiveVideoGame\bin\Debug\net8.0\InteractiveVideoGame.staticwebassets.endpoints.json
+C:\Web\InteractiveVideoGame\bin\Debug\net8.0\InteractiveVideoGame.exe
+C:\Web\InteractiveVideoGame\bin\Debug\net8.0\InteractiveVideoGame.deps.json
+C:\Web\InteractiveVideoGame\bin\Debug\net8.0\InteractiveVideoGame.runtimeconfig.json
+C:\Web\InteractiveVideoGame\bin\Debug\net8.0\InteractiveVideoGame.dll
+C:\Web\InteractiveVideoGame\bin\Debug\net8.0\InteractiveVideoGame.pdb
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\InteractiveVideoGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\InteractiveVideoGame.AssemblyInfoInputs.cache
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\InteractiveVideoGame.AssemblyInfo.cs
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\InteractiveVideoGame.csproj.CoreCompileInputs.cache
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\InteractiveVideoGame.MvcApplicationPartsAssemblyInfo.cache
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\InteractiveVideoGame.RazorAssemblyInfo.cache
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\InteractiveVideoGame.RazorAssemblyInfo.cs
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\scopedcss\bundle\InteractiveVideoGame.styles.css
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\scopedcss\projectbundle\InteractiveVideoGame.bundle.scp.css
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\staticwebassets.build.json
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\staticwebassets.development.json
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\InteractiveVideoGame.dll
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\refint\InteractiveVideoGame.dll
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\InteractiveVideoGame.pdb
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\InteractiveVideoGame.genruntimeconfig.cache
+C:\Web\InteractiveVideoGame\obj\Debug\net8.0\ref\InteractiveVideoGame.dll
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\bin\Debug\net8.0\InteractiveVideoGame.staticwebassets.runtime.json
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\bin\Debug\net8.0\InteractiveVideoGame.staticwebassets.endpoints.json
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\bin\Debug\net8.0\InteractiveVideoGame.exe
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\bin\Debug\net8.0\InteractiveVideoGame.deps.json
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\bin\Debug\net8.0\InteractiveVideoGame.runtimeconfig.json
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\bin\Debug\net8.0\InteractiveVideoGame.dll
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\bin\Debug\net8.0\InteractiveVideoGame.pdb
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\InteractiveVideoGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\InteractiveVideoGame.AssemblyInfoInputs.cache
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\InteractiveVideoGame.AssemblyInfo.cs
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\InteractiveVideoGame.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\InteractiveVideoGame.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\InteractiveVideoGame.RazorAssemblyInfo.cache
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\InteractiveVideoGame.RazorAssemblyInfo.cs
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\scopedcss\bundle\InteractiveVideoGame.styles.css
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\scopedcss\projectbundle\InteractiveVideoGame.bundle.scp.css
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\InteractiveVideoGame.dll
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\refint\InteractiveVideoGame.dll
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\InteractiveVideoGame.pdb
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\InteractiveVideoGame.genruntimeconfig.cache
+C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\obj\Debug\net8.0\ref\InteractiveVideoGame.dll

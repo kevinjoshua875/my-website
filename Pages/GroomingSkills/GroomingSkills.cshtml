@@ -1,0 +1,70 @@
+﻿@page
+
+<style>
+    @@font-face {
+        font-family: "MelonPop";
+        src: url("/fonts/Melon Pop.otf") format("opentype"), url("/fonts/Melon Pop.ttf") format("truetype");
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    body, h1, .menu-button {
+        font-family: "MelonPop", "Segoe UI", Arial, sans-serif;
+    }
+</style>
+
+<!-- 🔊 CLICK SOUND -->
+<audio id="clickSound" src="/sounds/click.mp3" preload="auto"></audio>
+
+<div class="center-page">
+    <div class="menu-card">
+
+        <h1>GROOMING SKILLS</h1>
+
+        <button class="menu-button" onclick="playClickAndGo('/GroomingSkills/ears/Screen1')">👂 Ears</button>
+        <button class="menu-button" onclick="playClickAndGo('/GroomingSkills/eyes/Screen1')">👀 Eyes</button>
+        <button class="menu-button" onclick="playClickAndGo('/GroomingSkills/hair (boys)/Screen1')">💇‍♂️ Hair (boys)</button>
+        <button class="menu-button" onclick="playClickAndGo('/GroomingSkills/hair (girls)/Screen1')">💇‍♀️ Hair (girls)</button>
+        <button class="menu-button" onclick="playClickAndGo('/GroomingSkills/hands and nails/Screen1')">✋ Hands and Nails</button>
+        <button class="menu-button" onclick="playClickAndGo('/GroomingSkills/nose/Screen1')">👃 Nose</button>
+        <button class="menu-button" onclick="playClickAndGo('/GroomingSkills/skin/Screen1')">🧴 Skin</button>
+        <button class="menu-button" onclick="playClickAndGo('/GroomingSkills/tongue/Screen1')">👅 Tongue</button>
+
+        <!-- BACK BUTTON -->
+        <button class="menu-button"
+                onclick="playClickAndBack()">
+            ⬅ BACK
+        </button>
+
+    </div>
+</div>
+
+<script>
+    function playClickAndGo(url) {
+        const sound = document.getElementById("clickSound");
+
+        if (sound) {
+            sound.currentTime = 0;
+            sound.play();
+        }
+
+        // Delay navigation so sound plays
+        setTimeout(() => {
+            window.location.href = url;
+        }, 150);
+    }
+
+    function playClickAndBack() {
+        const sound = document.getElementById("clickSound");
+
+        if (sound) {
+            sound.currentTime = 0;
+            sound.play();
+        }
+
+        // Delay going back so sound plays
+        setTimeout(() => {
+            history.back();
+        }, 150);
+    }
+</script>

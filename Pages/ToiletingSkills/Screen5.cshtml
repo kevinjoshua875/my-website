@@ -1,0 +1,52 @@
+﻿@page
+
+<!-- 🔊 CLICK SOUND -->
+<audio id="clickSound" src="/sounds/click.mp3" preload="auto"></audio>
+
+<div class="center-page">
+    <div class="menu-card">
+
+        <h1>After Recess – Bathroom Check </h1>
+
+        <div class="video-wrapper">
+
+            <!-- 🔥 SCREEN FLASH OVERLAY -->
+            <div id="screenFlash" class="screen-flash"></div>
+
+            @*<video id="lessonVideo" muted playsinline controls> *@
+            <video id="lessonVideo" controls>
+                <source src="/ToiletingSkills/Screen5/0113 (27).mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+
+            <div class="choices-overlay" id="choices">
+                <div class="choices-row">
+                    <button class="choice-btn" onclick="selectAnswer(true)">
+                        Wash hands and face to stay fresh and clean
+                    </button>
+
+                    <button class="choice-btn" onclick="selectAnswer(false)">
+                        Skip washing hands or face after using the bathroom
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <button id="backBtn" class="back-btn" onclick="handleBack()">
+            ⬅ BACK
+        </button>
+
+    </div>
+</div>
+
+<script src="/js/video-flow.js"></script>
+
+<script>
+    initVideo({
+        mainVideo: "/ToiletingSkills/Screen5/0113 (27).mp4",
+        correctVideo: "/ToiletingSkills/Screen5/0113 (29).mp4",
+        wrongVideo: "/ToiletingSkills/Screen5/0113 (28).mp4",
+        nextUrl: "/Play"
+    });
+</script>
+

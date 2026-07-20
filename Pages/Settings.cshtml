@@ -1,0 +1,129 @@
+﻿@page
+
+<style>
+    @@font-face {
+        font-family: "MelonPop";
+        src: url("/fonts/Melon Pop.otf") format("opentype"), url("/fonts/Melon Pop.ttf") format("truetype");
+        font-weight: normal;
+        font-style: normal;
+    }
+
+    body {
+        margin: 0;
+        font-family: "MelonPop", "Segoe UI", Arial, sans-serif;
+        background: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), url('/images/background.png') no-repeat center center fixed;
+        background-size: cover;
+        color: whitesmoke;
+    }
+
+    .center-page {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+    }
+
+    .menu-card {
+        background: rgba(255,255,255,0.18);
+        backdrop-filter: blur(12px);
+        -webkit-backdrop-filter: blur(12px);
+        border-radius: 20px;
+        padding: 40px 45px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 22px;
+        min-width: 340px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.55);
+        border: 1px solid rgba(255,255,255,0.2);
+        text-align: center;
+    }
+
+    h1 {
+        font-size: 2.8rem;
+        letter-spacing: 6px;
+        margin-bottom: 10px;
+        text-transform: uppercase;
+        color: #fde047;
+        font-family: "MelonPop", "Segoe UI", Arial, sans-serif;
+        text-shadow: 0 2px 4px rgba(0,0,0,0.7), 0 0 12px rgba(250, 204, 21, 0.7);
+    }
+
+    .setting-option {
+        display: flex;
+        align-items: center;
+        gap: 14px;
+        font-size: 1.1rem;
+        cursor: pointer;
+        opacity: 0.95;
+    }
+
+    input[type="checkbox"] {
+        width: 20px;
+        height: 20px;
+        accent-color: #fde047;
+        cursor: pointer;
+    }
+
+    .menu-button {
+        width: 220px;
+        padding: 14px;
+        font-size: 1.05rem;
+        font-weight: bold;
+        font-family: "MelonPop", "Segoe UI", Arial, sans-serif;
+        letter-spacing: 1px;
+        border: none;
+        border-radius: 50px;
+        cursor: pointer;
+        background: linear-gradient(135deg, #facc15, #eab308);
+        color: #1f2933;
+        box-shadow: 0 6px 0 #ca8a04, 0 10px 18px rgba(0,0,0,0.4);
+        transition: transform 0.15s, box-shadow 0.15s;
+    }
+
+        .menu-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 0 #ca8a04, 0 14px 25px rgba(0,0,0,0.45);
+        }
+
+        .menu-button:active {
+            transform: translateY(2px);
+            box-shadow: 0 3px 0 #ca8a04, 0 6px 12px rgba(0,0,0,0.3);
+        }
+</style>
+
+<!-- 🔊 CLICK SOUND -->
+<audio id="clickSound" src="/sounds/click.mp3" preload="auto"></audio>
+
+<div class="center-page">
+    <div class="menu-card">
+
+        <h1>SETTINGS</h1>
+
+        <label class="setting-option">
+            <input type="checkbox" id="music" onchange="playClick()">
+            🎵 Background Music
+        </label>
+
+        <!-- BACK button -->
+        <button class="menu-button" onclick="playClickAndBack()">⬅ BACK</button>
+
+    </div>
+</div>
+
+<script>
+    function playClick() {
+        const sound = document.getElementById("clickSound");
+        if (sound) {
+            sound.currentTime = 0;
+            sound.play();
+        }
+    }
+
+    function playClickAndBack() {
+        playClick();
+        setTimeout(() => {
+            history.back();
+        }, 150);
+    }
+</script>

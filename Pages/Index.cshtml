@@ -1,0 +1,176 @@
+﻿@page
+
+<style>
+    @@font-face {
+        font-family: "MelonPop";
+        src: url("/fonts/Melon Pop.otf") format("opentype"),
+             url("/fonts/Melon Pop.ttf") format("truetype");
+    }
+
+    body {
+        margin: 0;
+        font-family: "MelonPop", "Segoe UI", Arial, sans-serif;
+        overflow: hidden;
+        color: whitesmoke;
+    }
+
+    /* ===== SPLASH SCREEN ===== */
+    .splash-screen {
+        position: fixed;
+        inset: 0;
+        z-index: 9999;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        animation: fadeOut 1s ease forwards;
+        animation-delay: 4s;
+    }
+
+    .splash-bg {
+        position: absolute;
+        inset: 0;
+        background: url('/images/background.png') center / cover no-repeat;
+        filter: blur(5px);
+        transform: scale(1.08);
+    }
+
+    .splash-overlay {
+        position: absolute;
+        inset: 0;
+        background: rgba(0,0,0,0.55);
+    }
+
+    .splash-content {
+        position: relative;
+        z-index: 2;
+        text-align: center;
+        animation: splashPulse 1.6s ease-in-out infinite;
+    }
+
+    .splash-content img {
+        width: 240px;
+        max-width: 70vw;
+        border-radius: 18px;
+        box-shadow: 0 0 35px rgba(0,0,0,0.7);
+        margin-bottom: 18px;
+    }
+
+    .splash-caption {
+        font-size: 1.5rem;
+        letter-spacing: 4px;
+        text-transform: uppercase;
+        color: #fde047;
+        text-shadow: 0 0 16px rgba(250,204,21,0.85);
+        animation: captionFade 1.4s ease-in-out infinite alternate;
+    }
+
+    @@keyframes splashPulse {
+        0% { transform: scale(1); }
+        50% { transform: scale(1.05); }
+        100% { transform: scale(1); }
+    }
+
+    @@keyframes captionFade {
+        from { opacity: 0.6; }
+        to { opacity: 1; }
+    }
+
+    @@keyframes fadeOut {
+        to {
+            opacity: 0;
+            visibility: hidden;
+        }
+    }
+
+    .center-page {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+        opacity: 0;
+        animation: showContent 1s ease forwards;
+        animation-delay: 5s;
+        background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)),
+                    url('/images/background.png') no-repeat center center fixed;
+        background-size: cover;
+    }
+
+    @@keyframes showContent {
+        to { opacity: 1; }
+    }
+
+    .menu-card {
+        background: rgba(255,255,255,0.18);
+        backdrop-filter: blur(12px);
+        border-radius: 20px;
+        padding: 40px 45px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 18px;
+        min-width: 320px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.55);
+        border: 1px solid rgba(255,255,255,0.2);
+    }
+
+    h1 {
+        font-size: 2.8rem;
+        letter-spacing: 6px;
+        color: #fde047;
+        text-shadow: 0 0 18px rgba(250,204,21,0.8);
+    }
+
+    .menu-button {
+        width: 220px;
+        padding: 14px;
+        font-size: 1.05rem;
+        font-weight: bold;
+        border-radius: 50px;
+        border: none;
+        cursor: pointer;
+        background: linear-gradient(135deg, #facc15, #eab308);
+        color: #1f2933;
+        box-shadow: 0 6px 0 #ca8a04;
+    }
+</style>
+
+<!-- 🔊 CLICK SOUND -->
+<audio id="clickSound" src="/sounds/click.mp3" preload="auto"></audio>
+
+<!-- SPLASH SCREEN -->
+<div class="splash-screen">
+    <div class="splash-bg"></div>
+    <div class="splash-overlay"></div>
+
+    <div class="splash-content">
+        <img src="/images/splash.jpg" alt="Splash Image" />
+        <div class="splash-caption">🥈 Play. Learn. Succeed.</div>
+    </div>
+</div>
+
+<!-- MAIN MENU -->
+<div class="center-page">
+    <div class="menu-card">
+        <h1>PICK TO PLAY</h1>
+
+        <button class="menu-button" onclick="playClickAndGo('/Play')">🎮 PLAY</button>
+        <button class="menu-button" onclick="playClickAndGo('/Settings')">⚙️ SETTINGS</button>
+        <button class="menu-button" onclick="playClickAndGo('/Credits')">⭐ CREDITS</button>
+    </div>
+</div>
+
+<script>
+    function playClickAndGo(url) {
+        const sound = document.getElementById("clickSound");
+
+        if (sound) {
+            sound.currentTime = 0;
+            sound.play();
+        }
+
+        // Delay navigation so sound plays
+        setTimeout(() => {
+            window.location.href = url;
+        }, 150);
+    }
+</script>

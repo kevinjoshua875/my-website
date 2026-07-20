@@ -1,0 +1,309 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = InteractiveVideoGame
+build_property.RootNamespace = InteractiveVideoGame
+build_property.ProjectDir = C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Kevin Joshua Chua\Downloads\InteractiveVideoGame-20260720T133122Z-1-001\InteractiveVideoGame
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/Credits.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlZGl0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/EatingSkills/EatingSkills.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWF0aW5nU2tpbGxzXEVhdGluZ1NraWxscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/EatingSkills/Screen1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWF0aW5nU2tpbGxzXFNjcmVlbjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/EatingSkills/Screen2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWF0aW5nU2tpbGxzXFNjcmVlbjIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/EatingSkills/Screen3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWF0aW5nU2tpbGxzXFNjcmVlbjMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/EatingSkills/Screen4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWF0aW5nU2tpbGxzXFNjcmVlbjQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/EatingSkills/Screen5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWF0aW5nU2tpbGxzXFNjcmVlbjUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/ears/ears.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcZWFyc1xlYXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/ears/Screen1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcZWFyc1xTY3JlZW4xLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/ears/Screen2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcZWFyc1xTY3JlZW4yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/ears/Screen3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcZWFyc1xTY3JlZW4zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/ears/Screen4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcZWFyc1xTY3JlZW40LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/ears/Screen5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcZWFyc1xTY3JlZW41LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/eyes/Screen1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcZXllc1xTY3JlZW4xLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/eyes/Screen2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcZXllc1xTY3JlZW4yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/eyes/Screen3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcZXllc1xTY3JlZW4zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/eyes/Screen4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcZXllc1xTY3JlZW40LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/eyes/Screen5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcZXllc1xTY3JlZW41LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/eyes/Screen6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcZXllc1xTY3JlZW42LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/eyes/Screen7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcZXllc1xTY3JlZW43LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/eyes/Screen8.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcZXllc1xTY3JlZW44LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/GroomingSkills.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcR3Jvb21pbmdTa2lsbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/hair (boys)/Screen1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcaGFpciAoYm95cylcU2NyZWVuMS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/hair (boys)/Screen2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcaGFpciAoYm95cylcU2NyZWVuMi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/hair (boys)/Screen3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcaGFpciAoYm95cylcU2NyZWVuMy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/hair (boys)/Screen4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcaGFpciAoYm95cylcU2NyZWVuNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/hair (boys)/Screen5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcaGFpciAoYm95cylcU2NyZWVuNS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/hair (boys)/Screen6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcaGFpciAoYm95cylcU2NyZWVuNi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/hair (girls)/Screen1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcaGFpciAoZ2lybHMpXFNjcmVlbjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/hair (girls)/Screen2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcaGFpciAoZ2lybHMpXFNjcmVlbjIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/hair (girls)/Screen3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcaGFpciAoZ2lybHMpXFNjcmVlbjMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/hair (girls)/Screen4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcaGFpciAoZ2lybHMpXFNjcmVlbjQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/hair (girls)/Screen5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcaGFpciAoZ2lybHMpXFNjcmVlbjUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/hair (girls)/Screen6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcaGFpciAoZ2lybHMpXFNjcmVlbjYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/hands and nails/Screen1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcaGFuZHMgYW5kIG5haWxzXFNjcmVlbjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/hands and nails/Screen2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcaGFuZHMgYW5kIG5haWxzXFNjcmVlbjIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/hands and nails/Screen3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcaGFuZHMgYW5kIG5haWxzXFNjcmVlbjMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/hands and nails/Screen4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcaGFuZHMgYW5kIG5haWxzXFNjcmVlbjQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/hands and nails/Screen5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcaGFuZHMgYW5kIG5haWxzXFNjcmVlbjUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/hands and nails/Screen6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcaGFuZHMgYW5kIG5haWxzXFNjcmVlbjYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/nose/Screen1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcbm9zZVxTY3JlZW4xLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/nose/Screen2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcbm9zZVxTY3JlZW4yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/nose/Screen3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcbm9zZVxTY3JlZW4zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/nose/Screen4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcbm9zZVxTY3JlZW40LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/nose/Screen5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcbm9zZVxTY3JlZW41LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/skin/Screen1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcc2tpblxTY3JlZW4xLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/skin/Screen2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcc2tpblxTY3JlZW4yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/skin/Screen3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcc2tpblxTY3JlZW4zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/skin/Screen4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcc2tpblxTY3JlZW40LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/skin/Screen5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcc2tpblxTY3JlZW41LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/tongue/Screen1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcdG9uZ3VlXFNjcmVlbjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/tongue/Screen2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcdG9uZ3VlXFNjcmVlbjIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/tongue/Screen3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcdG9uZ3VlXFNjcmVlbjMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/tongue/Screen4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcdG9uZ3VlXFNjcmVlbjQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/tongue/Screen5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcdG9uZ3VlXFNjcmVlbjUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/tongue/Screen6.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcdG9uZ3VlXFNjcmVlbjYuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/GroomingSkills/tongue/Screen7.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcR3Jvb21pbmdTa2lsbHNcdG9uZ3VlXFNjcmVlbjcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/Play.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUGxheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/Settings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dGluZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/ToiletingSkills/Screen1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9pbGV0aW5nU2tpbGxzXFNjcmVlbjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/ToiletingSkills/Screen2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9pbGV0aW5nU2tpbGxzXFNjcmVlbjIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/ToiletingSkills/Screen3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9pbGV0aW5nU2tpbGxzXFNjcmVlbjMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/ToiletingSkills/Screen4.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9pbGV0aW5nU2tpbGxzXFNjcmVlbjQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/ToiletingSkills/Screen5.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9pbGV0aW5nU2tpbGxzXFNjcmVlbjUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/ToiletingSkills/ToiletingSkills.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVG9pbGV0aW5nU2tpbGxzXFRvaWxldGluZ1NraWxscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Kevin Joshua Chua/Downloads/InteractiveVideoGame-20260720T133122Z-1-001/InteractiveVideoGame/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-czmo874x72

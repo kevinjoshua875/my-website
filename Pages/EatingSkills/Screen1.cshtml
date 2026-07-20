@@ -1,0 +1,53 @@
+﻿@page
+
+<!-- 🔊 CLICK SOUND -->
+<audio id="clickSound" src="/sounds/click.mp3" preload="auto"></audio>
+
+<div class="center-page">
+    <div class="menu-card">
+
+        <h1>Lunch at the Canteen – Before Eating</h1>
+
+        <div class="video-wrapper">
+
+            <!-- 🔥 SCREEN FLASH OVERLAY -->
+            <div id="screenFlash" class="screen-flash"></div>
+
+            <video id="lessonVideo" controls>
+                <source src="/EatingSkills/Screen1/0115 (1).mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+
+            <!-- BOTTOM INSIDE VIDEO CHOICES -->
+            <div class="choices-overlay" id="choices">
+                <div class="choices-row">
+                    <button class="choice-btn" onclick="selectAnswer(true)">
+                        Wash your hands first before touching your food
+                    </button>
+
+                    <button class="choice-btn" onclick="selectAnswer(false)">
+                        Eat right away without washing your hands
+                    </button>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- BACK / UNDO BUTTON -->
+        <button class="back-btn" id="backBtn" onclick="handleBack()">
+            ⬅ BACK
+        </button>
+
+    </div>
+</div>
+
+<script src="/js/video-flow.js"></script>
+
+<script>
+    initVideo({
+        mainVideo: "/EatingSkills/Screen1/0115 (1).mp4",
+        correctVideo: "/EatingSkills/Screen1/0114 (2).mp4",
+        wrongVideo: "/EatingSkills/Screen1/0115.mp4",
+        nextUrl: "/EatingSkills/Screen2"
+    });
+</script>

@@ -1,0 +1,243 @@
+wwwroot\css\pick-to-play.css
+wwwroot\css\site.css
+wwwroot\css\video.css
+wwwroot\EatingSkills\Screen1\0114 (2).mp4
+wwwroot\EatingSkills\Screen1\0115 (1).mp4
+wwwroot\EatingSkills\Screen1\0115.mp4
+wwwroot\EatingSkills\Screen2\0115 (2).mp4
+wwwroot\EatingSkills\Screen2\0115 (3).mp4
+wwwroot\EatingSkills\Screen2\0115 (4).mp4
+wwwroot\EatingSkills\Screen3\0115 (5).mp4
+wwwroot\EatingSkills\Screen3\0115 (6).mp4
+wwwroot\EatingSkills\Screen3\0115 (7).mp4
+wwwroot\EatingSkills\Screen4\0115 (10).mp4
+wwwroot\EatingSkills\Screen4\0115 (11).mp4
+wwwroot\EatingSkills\Screen4\0115 (8).mp4
+wwwroot\EatingSkills\Screen5\0115 (12).mp4
+wwwroot\EatingSkills\Screen5\0115 (13).mp4
+wwwroot\EatingSkills\Screen5\0115 (14).mp4
+wwwroot\favicon.ico
+wwwroot\fonts\Melon Pop.otf
+wwwroot\fonts\Melon Pop.ttf
+wwwroot\GroomingSkills\ears\Screen1\0113 (30).mp4
+wwwroot\GroomingSkills\ears\Screen1\0113 (31).mp4
+wwwroot\GroomingSkills\ears\Screen1\0113 (32).mp4
+wwwroot\GroomingSkills\ears\Screen2\0113 (33).mp4
+wwwroot\GroomingSkills\ears\Screen2\0113 (34).mp4
+wwwroot\GroomingSkills\ears\Screen2\0113 (35).mp4
+wwwroot\GroomingSkills\ears\Screen3\0113 (37).mp4
+wwwroot\GroomingSkills\ears\Screen3\0113 (38).mp4
+wwwroot\GroomingSkills\ears\Screen3\0113 (39).mp4
+wwwroot\GroomingSkills\ears\Screen4\0113 (40).mp4
+wwwroot\GroomingSkills\ears\Screen4\0113 (41).mp4
+wwwroot\GroomingSkills\ears\Screen4\0113 (42).mp4
+wwwroot\GroomingSkills\ears\Screen5\0113 (43).mp4
+wwwroot\GroomingSkills\ears\Screen5\0113 (44).mp4
+wwwroot\GroomingSkills\ears\Screen5\0113 (45).mp4
+wwwroot\GroomingSkills\eyes\Screen1\choicea.mp4
+wwwroot\GroomingSkills\eyes\Screen1\choiceb.mp4
+wwwroot\GroomingSkills\eyes\Screen1\intro.mp4
+wwwroot\GroomingSkills\eyes\Screen2\choicea.mp4
+wwwroot\GroomingSkills\eyes\Screen2\choiceb.mp4
+wwwroot\GroomingSkills\eyes\Screen2\intro.mp4
+wwwroot\GroomingSkills\eyes\Screen3\choicea.mp4
+wwwroot\GroomingSkills\eyes\Screen3\choiceb.mp4
+wwwroot\GroomingSkills\eyes\Screen3\intro.mp4
+wwwroot\GroomingSkills\eyes\Screen4\choicea.mp4
+wwwroot\GroomingSkills\eyes\Screen4\choiceb.mp4
+wwwroot\GroomingSkills\eyes\Screen4\intro.mp4
+wwwroot\GroomingSkills\eyes\Screen5\0113 (47).mp4
+wwwroot\GroomingSkills\eyes\Screen5\0113 (48).mp4
+wwwroot\GroomingSkills\eyes\Screen5\intro.mp4
+wwwroot\GroomingSkills\eyes\Screen6\0110 (4).mp4
+wwwroot\GroomingSkills\eyes\Screen6\0111 (9)(1).mp4
+wwwroot\GroomingSkills\eyes\Screen6\0114 (1).mp4
+wwwroot\GroomingSkills\eyes\Screen7\0110 (3).mp4
+wwwroot\GroomingSkills\eyes\Screen7\0113 (49).mp4
+wwwroot\GroomingSkills\eyes\Screen7\0113 (50).mp4
+wwwroot\GroomingSkills\eyes\Screen8\0110 (5).mp4
+wwwroot\GroomingSkills\eyes\Screen8\0111 (10).mp4
+wwwroot\GroomingSkills\eyes\Screen8\0111 (11).mp4
+wwwroot\GroomingSkills\hair (boys)\Screen1\0110 (6).mp4
+wwwroot\GroomingSkills\hair (boys)\Screen1\0111 (13).mp4
+wwwroot\GroomingSkills\hair (boys)\Screen1\0111 (14).mp4
+wwwroot\GroomingSkills\hair (boys)\Screen2\0111 (15).mp4
+wwwroot\GroomingSkills\hair (boys)\Screen2\0111 (16).mp4
+wwwroot\GroomingSkills\hair (boys)\Screen2\0111 (17).mp4
+wwwroot\GroomingSkills\hair (boys)\Screen3\0111 (18).mp4
+wwwroot\GroomingSkills\hair (boys)\Screen3\0111 (19).mp4
+wwwroot\GroomingSkills\hair (boys)\Screen3\0111 (20).mp4
+wwwroot\GroomingSkills\hair (boys)\Screen4\0111 (21).mp4
+wwwroot\GroomingSkills\hair (boys)\Screen4\0111 (22).mp4
+wwwroot\GroomingSkills\hair (boys)\Screen4\0111 (23).mp4
+wwwroot\GroomingSkills\hair (boys)\Screen5\0111 (24).mp4
+wwwroot\GroomingSkills\hair (boys)\Screen5\0111 (25).mp4
+wwwroot\GroomingSkills\hair (boys)\Screen5\0111 (26).mp4
+wwwroot\GroomingSkills\hair (boys)\Screen6\0111 (27).mp4
+wwwroot\GroomingSkills\hair (boys)\Screen6\0111 (28).mp4
+wwwroot\GroomingSkills\hair (boys)\Screen6\0111 (29).mp4
+wwwroot\GroomingSkills\hair (girls)\Screen1\0112 (4).mp4
+wwwroot\GroomingSkills\hair (girls)\Screen1\0112 (5).mp4
+wwwroot\GroomingSkills\hair (girls)\Screen1\0112 (6).mp4
+wwwroot\GroomingSkills\hair (girls)\Screen2\0112 (7).mp4
+wwwroot\GroomingSkills\hair (girls)\Screen2\0112 (8).mp4
+wwwroot\GroomingSkills\hair (girls)\Screen2\0112 (9).mp4
+wwwroot\GroomingSkills\hair (girls)\Screen3\0112 (10).mp4
+wwwroot\GroomingSkills\hair (girls)\Screen3\0112 (11).mp4
+wwwroot\GroomingSkills\hair (girls)\Screen3\0112 (12).mp4
+wwwroot\GroomingSkills\hair (girls)\Screen4\0112 (13).mp4
+wwwroot\GroomingSkills\hair (girls)\Screen4\0112 (14).mp4
+wwwroot\GroomingSkills\hair (girls)\Screen4\0112 (15).mp4
+wwwroot\GroomingSkills\hair (girls)\Screen5\0112 (16).mp4
+wwwroot\GroomingSkills\hair (girls)\Screen5\0112 (17).mp4
+wwwroot\GroomingSkills\hair (girls)\Screen5\0112 (18).mp4
+wwwroot\GroomingSkills\hair (girls)\Screen6\0112 (19).mp4
+wwwroot\GroomingSkills\hair (girls)\Screen6\0112 (20).mp4
+wwwroot\GroomingSkills\hair (girls)\Screen6\0112 (21).mp4
+wwwroot\GroomingSkills\hands and nails\Screen1\0111 (66).mp4
+wwwroot\GroomingSkills\hands and nails\Screen1\0111 (67).mp4
+wwwroot\GroomingSkills\hands and nails\Screen1\0111 (68).mp4
+wwwroot\GroomingSkills\hands and nails\Screen2\0111 (69).mp4
+wwwroot\GroomingSkills\hands and nails\Screen2\0111 (70).mp4
+wwwroot\GroomingSkills\hands and nails\Screen2\0111 (73).mp4
+wwwroot\GroomingSkills\hands and nails\Screen3\0111 (71).mp4
+wwwroot\GroomingSkills\hands and nails\Screen3\0111 (72).mp4
+wwwroot\GroomingSkills\hands and nails\Screen3\0111 (75).mp4
+wwwroot\GroomingSkills\hands and nails\Screen4\0111 (76).mp4
+wwwroot\GroomingSkills\hands and nails\Screen4\0112 (1).mp4
+wwwroot\GroomingSkills\hands and nails\Screen4\0112(1).mp4
+wwwroot\GroomingSkills\hands and nails\Screen5\0116 (1).mp4
+wwwroot\GroomingSkills\hands and nails\Screen5\0116 (2).mp4
+wwwroot\GroomingSkills\hands and nails\Screen5\0116 (3).mp4
+wwwroot\GroomingSkills\hands and nails\Screen6\0112 (2).mp4
+wwwroot\GroomingSkills\hands and nails\Screen6\0113.mp4
+wwwroot\GroomingSkills\hands and nails\Screen6\0116.mp4
+wwwroot\GroomingSkills\nose\Screen1\0111 (30).mp4
+wwwroot\GroomingSkills\nose\Screen1\0111 (31).mp4
+wwwroot\GroomingSkills\nose\Screen1\0111 (32).mp4
+wwwroot\GroomingSkills\nose\Screen2\0111 (33).mp4
+wwwroot\GroomingSkills\nose\Screen2\0111 (34).mp4
+wwwroot\GroomingSkills\nose\Screen2\0111 (35).mp4
+wwwroot\GroomingSkills\nose\Screen3\0111 (36).mp4
+wwwroot\GroomingSkills\nose\Screen3\0111 (37).mp4
+wwwroot\GroomingSkills\nose\Screen3\0111 (38).mp4
+wwwroot\GroomingSkills\nose\Screen4\0111 (39).mp4
+wwwroot\GroomingSkills\nose\Screen4\0111 (40).mp4
+wwwroot\GroomingSkills\nose\Screen4\0111 (41).mp4
+wwwroot\GroomingSkills\nose\Screen5\0111 (42).mp4
+wwwroot\GroomingSkills\nose\Screen5\0111 (43).mp4
+wwwroot\GroomingSkills\nose\Screen5\0111 (44).mp4
+wwwroot\GroomingSkills\skin\Screen1\0112 (22).mp4
+wwwroot\GroomingSkills\skin\Screen1\0112 (23).mp4
+wwwroot\GroomingSkills\skin\Screen1\0112(1).mp4
+wwwroot\GroomingSkills\skin\Screen2\0113 (1).mp4
+wwwroot\GroomingSkills\skin\Screen2\0113 (2).mp4
+wwwroot\GroomingSkills\skin\Screen2\0113 (3).mp4
+wwwroot\GroomingSkills\skin\Screen3\0113 (4).mp4
+wwwroot\GroomingSkills\skin\Screen3\0113 (6).mp4
+wwwroot\GroomingSkills\skin\Screen3\0113 (7).mp4
+wwwroot\GroomingSkills\skin\Screen4\0113 (10).mp4
+wwwroot\GroomingSkills\skin\Screen4\0113 (8).mp4
+wwwroot\GroomingSkills\skin\Screen4\0113 (9).mp4
+wwwroot\GroomingSkills\skin\Screen5\0113 (11).mp4
+wwwroot\GroomingSkills\skin\Screen5\0113 (12).mp4
+wwwroot\GroomingSkills\skin\Screen5\0113 (13).mp4
+wwwroot\GroomingSkills\tongue\Screen1\0111 (45).mp4
+wwwroot\GroomingSkills\tongue\Screen1\0111 (47).mp4
+wwwroot\GroomingSkills\tongue\Screen1\0111 (48).mp4
+wwwroot\GroomingSkills\tongue\Screen2\0111 (49).mp4
+wwwroot\GroomingSkills\tongue\Screen2\0111 (50).mp4
+wwwroot\GroomingSkills\tongue\Screen2\0111 (51).mp4
+wwwroot\GroomingSkills\tongue\Screen3\0111 (52).mp4
+wwwroot\GroomingSkills\tongue\Screen3\0111 (53).mp4
+wwwroot\GroomingSkills\tongue\Screen3\0111 (54).mp4
+wwwroot\GroomingSkills\tongue\Screen4\0111 (55).mp4
+wwwroot\GroomingSkills\tongue\Screen4\0111 (56).mp4
+wwwroot\GroomingSkills\tongue\Screen4\0111 (57).mp4
+wwwroot\GroomingSkills\tongue\Screen5\0111 (58).mp4
+wwwroot\GroomingSkills\tongue\Screen5\0111 (59).mp4
+wwwroot\GroomingSkills\tongue\Screen5\0116 (4).mp4
+wwwroot\GroomingSkills\tongue\Screen6\0111 (60).mp4
+wwwroot\GroomingSkills\tongue\Screen6\0111 (61).mp4
+wwwroot\GroomingSkills\tongue\Screen6\0111 (62).mp4
+wwwroot\GroomingSkills\tongue\Screen7\0111 (63).mp4
+wwwroot\GroomingSkills\tongue\Screen7\0111 (64).mp4
+wwwroot\GroomingSkills\tongue\Screen7\0111 (65).mp4
+wwwroot\images\background.png
+wwwroot\images\splash.JPG
+wwwroot\js\site.js
+wwwroot\js\video-flow.js
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\sounds\Backgroundsound.mp3
+wwwroot\sounds\click.mp3
+wwwroot\ToiletingSkills\Screen1\0113 (14).mp4
+wwwroot\ToiletingSkills\Screen1\0113 (15).mp4
+wwwroot\ToiletingSkills\Screen1\0113 (16).mp4
+wwwroot\ToiletingSkills\Screen2\0113 (18).mp4
+wwwroot\ToiletingSkills\Screen2\0113 (19).mp4
+wwwroot\ToiletingSkills\Screen2\0113 (20).mp4
+wwwroot\ToiletingSkills\Screen3\0113 (21).mp4
+wwwroot\ToiletingSkills\Screen3\0113 (22).mp4
+wwwroot\ToiletingSkills\Screen3\0113 (23).mp4
+wwwroot\ToiletingSkills\Screen4\0113 (24).mp4
+wwwroot\ToiletingSkills\Screen4\0113 (25).mp4
+wwwroot\ToiletingSkills\Screen4\0113 (26).mp4
+wwwroot\ToiletingSkills\Screen5\0113 (27).mp4
+wwwroot\ToiletingSkills\Screen5\0113 (28).mp4
+wwwroot\ToiletingSkills\Screen5\0113 (29).mp4

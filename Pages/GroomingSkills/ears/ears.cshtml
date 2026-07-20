@@ -1,0 +1,105 @@
+﻿@page
+
+<style>
+    body {
+        margin: 0;
+        font-family: "Segoe UI", Arial, sans-serif;
+        background: linear-gradient(rgba(0,0,0,0.40), rgba(0,0,0,0.40)), url('/images/background.png') no-repeat center center fixed;
+        background-size: cover;
+        color: whitesmoke;
+    }
+
+    /* Center layout (same as Index) */
+    .center-page {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        min-height: 100vh;
+    }
+
+    /* Glass card */
+    .menu-card {
+        background: rgba(255,255,255,0.18);
+        backdrop-filter: blur(12px);
+        -webkit-backdrop-filter: blur(12px);
+        border-radius: 20px;
+        padding: 40px 45px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+        min-width: 360px;
+        box-shadow: 0 10px 30px rgba(0,0,0,0.55);
+        border: 1px solid rgba(255,255,255,0.2);
+        text-align: center;
+    }
+
+    /* Title */
+    h1 {
+        font-size: 2.8rem;
+        letter-spacing: 6px;
+        text-transform: uppercase;
+        color: #fde047;
+        margin-bottom: 10px;
+        text-shadow: 0 2px 4px rgba(0,0,0,0.7), 0 0 12px rgba(250, 204, 21, 0.7);
+    }
+
+    /* Buttons */
+    .menu-button {
+        width: 450px;
+        padding: 16px;
+        font-size: 1.15rem;
+        font-weight: bold;
+        letter-spacing: 1px;
+        border: none;
+        border-radius: 10px;
+        cursor: pointer;
+        background: linear-gradient(135deg, #facc15, #eab308);
+        color: #1f2933;
+        box-shadow: 0 6px 0 #ca8a04, 0 10px 18px rgba(0,0,0,0.4);
+        transition: transform 0.15s, box-shadow 0.15s;
+    }
+
+        .menu-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 0 #ca8a04, 0 14px 25px rgba(0,0,0,0.45);
+        }
+
+        .menu-button:active {
+            transform: translateY(2px);
+            box-shadow: 0 3px 0 #ca8a04, 0 6px 12px rgba(0,0,0,0.3);
+        }
+</style>
+
+<div class="center-page">
+    <div class="menu-card">
+
+        <!-- CHANGE TITLE PER SKILL -->
+        <h1>GROOMING SKILL: EARS</h1>
+
+        <button class="menu-button" onclick="location.href='/ToiletingSkills/Screen1'">
+            ▶ Morning Arrival – School Entrance
+        </button>
+
+        <button class="menu-button" onclick="location.href='/ToiletingSkills/Screen2'">
+            ▶ Classroom – Listening Time
+        </button>
+
+        <button class="menu-button" onclick="location.href='/ToiletingSkills/Screen3'">
+            ▶ Recess – Outdoor Play
+        </button>
+
+        <button class="menu-button" onclick="location.href='/ToiletingSkills/Screen4'">
+            ▶ Music Time – Classroom or Outdoor
+        </button>
+
+        <button class="menu-button" onclick="location.href='/ToiletingSkills/Screen5'">
+            ▶ End of School Day – Washroom
+        </button>
+
+        <button class="menu-button" onclick="history.back()">
+            ⬅ BACK
+        </button>
+
+    </div>
+</div>
